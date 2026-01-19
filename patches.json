@@ -1,0 +1,11 @@
+{
+  "patches": [
+    {
+      "from_version": 1,
+      "to_version": 2,
+      "patch_url": "https://github.com/zwy2673976185-design/LocalTunnel-Updates/releases/download/patches/patch_v1_to_v2.zip",
+      "patch_size": 1048576,
+      "md5": "c3d4e5f6a7b8"
+    }
+  ]
+}
