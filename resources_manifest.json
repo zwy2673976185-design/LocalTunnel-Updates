@@ -1,0 +1,36 @@
+{
+  "manifest_version": 1,
+  "version": 2,
+  "total_size": 5242880,
+  "description": "资源文件清单，用于差异化更新",
+  "files": [
+    {
+      "path": "images/logo.png",
+      "size": 102400,
+      "md5": "abc123def4567890abcdef1234567890",
+      "version": 2,
+      "required": true
+    },
+    {
+      "path": "web/index.html",
+      "size": 20480,
+      "md5": "def456abc1237890abcdef1234567890",
+      "version": 2,
+      "required": true
+    },
+    {
+      "path": "config/settings.json",
+      "size": 5120,
+      "md5": "123abc456def7890abcdef1234567890",
+      "version": 2,
+      "required": false
+    },
+    {
+      "path": "fonts/custom.ttf",
+      "size": 1048576,
+      "md5": "456def123abc7890abcdef1234567890",
+      "version": 1,
+      "required": false
+    }
+  ]
+}
